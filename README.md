@@ -1,4 +1,11 @@
 # APIs of coins
+
+There are a huge number of crypto APIs, and virtually all of them offer public crypto data for free through their public endpoints.
+
+This article lists the top crypto APIs accessed by users of the API Connector extension for Sheets, along with the type of authentication they require. For Open APIs (those with no authorization requirements) a sample URL is provided so you can click the URL and see the results in your browser.
+
+### List of Crypto Market Data APIs
+
 **Number**|**API NAME**| **DESCRIPTION** |**AUTH REQUIREMENTS**   |**SAMPLE URL**|
 |---|---|--- |---|---|
 |1|[Binance](https://binance-docs.github.io/apidocs/spot/en/#introduction)| 24 hr crypto data  | Open | https://data.binance.com/api/v3/ticker/24hr |
