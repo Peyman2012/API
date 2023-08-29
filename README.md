@@ -1,4 +1,4 @@
-# APIs of coins
+# APIs of Coins
 
 There are a huge number of crypto APIs, and virtually all of them offer public crypto data for free through their public endpoints.
 
